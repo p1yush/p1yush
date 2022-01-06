@@ -8,6 +8,5 @@
 - Pronouns: He/Him
 - Loves: Workout, Gaming...
 - Hobbys: Football, gaming 
-- 
 
 
