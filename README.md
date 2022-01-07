@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Piyush
-### I am a Web Developer
+### I am a Web Developer / a programmer
 ##
 
 <a href="https://p1yushsingh.netlify.app/"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world"></a>
